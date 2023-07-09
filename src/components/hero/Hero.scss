@@ -1,0 +1,22 @@
+.hero { 
+
+  display: flex;
+  background-color: rgb(244, 215, 215);
+  
+
+  &__header1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    //color: ;
+    margin-left: 50px;
+    margin-top: 150px;
+  }
+
+  &__title { 
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    margin-left: 50px;
+    font-weight: bold;
+  }
+}
